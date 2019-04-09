@@ -1,0 +1,9 @@
+#cookies parameters
+
+V2EX_LANG
+PB3_SESSION
+V2EX_REFERRER
+_ga
+_gid
+A2
+V2EX_TAB
